@@ -17,7 +17,7 @@ Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2019 luentosarj
 Totetutuskerran käytössä on
 [Slack-kanava](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).
 
-Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella #jodatuni
+Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella [#jodatuni](https://twitter.com/search?q=%23jodatuni&f=live).
 
 # Luentopäiväkirja
 
@@ -103,9 +103,9 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodat
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
 
-## Luento 5.3: Johdanto aihepiiriin ja suorittaminen
+## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento tiistaina 5. maaliskuuta kello 10-12 SJ204.
+Avausluento tiistaina 3. maaliskuuta kello 10-12 SJ204.
 Suorittamisen käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),

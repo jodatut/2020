@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Harjoitustyöohje / JODA 2018
-year: 2018
+title: Harjoitustyöohje / JODA 2020
+year: 2020
 ---
 
-Ohje viimeistellään luentoviikon 4.4 aikana. Ilmoita epäjohdonmukaisuuksista Arholle, vaikka Slack-kanavalla.
+**Ohje viimeistellään ensimmäisten luentoviikkojen aikana.** Ilmoita epäjohdonmukaisuuksista Jukalle, vaikka Slack-kanavalla.
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet. Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2018/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2020/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analyysi datatieteen menetelmin.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suorittaminen / JODA 2019
+title: Suorittaminen / JODA 2020
 ---
 
 # Suorittaminen
@@ -20,13 +20,15 @@ Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 
 Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
 
-Perusta luentopäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä.
-Kerro dokumentin osoite [Google Forms:n](https://goo.gl/forms/rwfKD6YFDpDSOS8a2) avulla Arholle.
+Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Kerro dokumentin osoite Moodlessa.
+
+<!--
+Kerro dokumentin osoite [Google Forms:n](https://goo.gl/forms/rwfKD6YFDpDSOS8a2) avulla Arholle.-->
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
-* Kattavuus ja oikeellisuus: Kiitettävä oppimispäiväkirja kattaa toteutuskerran kokonaisuutena ja on asiasisällöltään moitteeton. Välttävä päiväkirja sisältää hajanaisia havaintoja joista merkittävä osa on virheellisiä.
-* Soveltava vastaan luettelomainen: Kiitettävässä oppimispäiväkirjassa opiskelija jalostaa luennolla esitettyjä ajatuksia edelleen ja muodostaa viikon teemasta eheän kokonaisuuden. Välttävässä oppimispäiväkirjassa opiskelija esittää samat asiat samassa muodossa kuin luennolla.
-* Pohdiskelu ja reflektointi: Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
+* **Kattavuus ja oikeellisuus:** Kiitettävä oppimispäiväkirja kattaa toteutuskerran kokonaisuutena ja on asiasisällöltään moitteeton. Välttävä päiväkirja sisältää hajanaisia havaintoja joista merkittävä osa on virheellisiä.
+* **Soveltava vastaan luettelomainen:** Kiitettävässä oppimispäiväkirjassa opiskelija jalostaa luennolla esitettyjä ajatuksia edelleen ja muodostaa viikon teemasta eheän kokonaisuuden. Välttävässä oppimispäiväkirjassa opiskelija esittää samat asiat samassa muodossa kuin luennolla.
+* **Pohdiskelu ja reflektointi:** Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
 
-Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 15. toukokuuta 2019. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2019/harjoitustyo/#loppuraportti).
+Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 15. toukokuuta 2019. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2020/harjoitustyo/#loppuraportti).

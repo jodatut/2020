@@ -25,13 +25,13 @@ Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteel
 ## Luento 23.4: Kertaus
 Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
 
-Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%207.ipynb)
+Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%207.ipynb)
 
 ## Luento 16.4: Datan visualisointi
 
 Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
-Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%206.ipynb)
+Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%206.ipynb)
 
 ## Luento 9.4: Ohjaamaton koneoppiminen
 
@@ -42,7 +42,7 @@ Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images
 ryvästäminen (ks. [k-means-clustering](https://www.datascience.com/blog/k-means-clustering)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
-Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%205.ipynb)
+Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%205.ipynb)
 
 Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://jodatut.github.io/2019/analysisofpca).
 
@@ -56,7 +56,7 @@ Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
 
-Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Jodatut%204.ipynb)
+Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Jodatut%204.ipynb)
 
 Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
 
@@ -71,7 +71,7 @@ piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
 luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/))
 
-Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%203.ipynb)
+Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%203.ipynb)
 
 Koodiklinikalla käsittelyssä [Description and Code](https://jodatut.github.io/2019/Loan-Status-Prediction/).
 
@@ -93,7 +93,7 @@ datan ensi tarkastelu Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python),
 vrt. OpenRefine.
 
-Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Lecture%202.ipynb)
+Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Lecture%202.ipynb)
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2019/blob/master/koodiesimerkit/crawler.md).
 
@@ -120,7 +120,7 @@ Datatieteen työvälineet:
 Dataa koneeseen:
 read_csv() & read_excel().
 
-Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentokirjat/Lecture%201.ipynb)
+Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luento01.ipynb)
 
 Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä.
 <!--

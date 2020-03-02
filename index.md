@@ -12,8 +12,8 @@ Opintojakson kevään 2020 toteutuskerta rakentuu tämän Github-kokonaisuuden y
 Alan kehitys etenee huimaa tahtia, joten sisältöjä päivitetään vuosittain.
 Myös opintojakson toteutustapaa kehitetään jatkuvasti.
 
-<!--
+Ohjeet päivittyvät ensimmäisten viikkojen aikana:
+
 * [Luentopäiväkirja](luentopaivakirja) kokoaa yhteen toteutuskerran keskeiset tiedot ja resurssit
 * [Suorittaminen](suorittaminen) kertoo pisteytyksen ja suorittamisen yksityiskohdat
 * [Harjoitustyöohje](harjoitustyo) esittelee harjoitustyön tekemisen käytännöt.
--->

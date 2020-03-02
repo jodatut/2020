@@ -1,25 +1,29 @@
 ---
 layout: default
-title: Luentopäiväkirja / JODA 2019
-year: 2019
+title: Luentopäiväkirja / JODA 2020
+year: 2020
 ---
 
-Tämä on Johdanto datatieteeseen -opintojakson kevään 2019 toteutuskerran luentopäiväkirja.
+Tämä on Johdanto datatieteeseen -opintojakson kevään 2020 toteutuskerran luentopäiväkirja.
+
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
-Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2018 luentosarjaa iteratiivisesti kehittäen. Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä
+
+Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2019 luentosarjaa iteratiivisesti kehittäen.
+<!--  Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä -->
 
 Totetutuskerran käytössä on
 [Slack-kanava](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).
 
-Toteutuskerran aikana pyritään myös aktiivisesti Twiittaan hashtag:llä #jodatuni
+Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella #jodatuni
 
 # Luentopäiväkirja
 
+<!--
 ## Luento 23.4: Kertaus
-Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa. 
+Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
 
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%207.ipynb)
 
@@ -93,6 +97,8 @@ Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2019/blob/master/koodiesimerkit/crawler.md).
 
+-->
+
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
@@ -114,7 +120,10 @@ Datatieteen työvälineet:
 Dataa koneeseen:
 read_csv() & read_excel().
 
-Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Lecture%201.ipynb)
+Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentokirjat/Lecture%201.ipynb)
 
-Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä. Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public
-Liittykää myös kurssin [Slack-kanavalle](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).
+Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä.
+<!--
+Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
+
+Liity myös opintojakson [Slack-kanavalle](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).

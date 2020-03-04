@@ -129,4 +129,4 @@ Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri k
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 
-Liity myös opintojakson [Slack-kanavalle](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).
+Liity myös opintojakson [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/enQtOTY2ODc3MTQ2Mzg1LTVlMTVlMTIyZDk3YmUyZjJhYTk0Yzg5YzRhZjg0YTk3NWNmZDg0OGRmYWI0MjJjMWEyZTFkMmY5M2Q3ZTY5NDY).

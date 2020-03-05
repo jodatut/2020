@@ -15,7 +15,7 @@ Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2019 luentosarj
 <!--  Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä -->
 
 Toteutuskerran käytössä on
-[Slack-kanava](https://join.slack.com/t/tampere-university/shared_invite/enQtNTYxNjY2OTkwOTYyLWQ2M2EyODJkYWU5OWEwOGQzM2I5NDAwZDVhNWVhNzNlMjI5ZDgzNmQ4MTEyOWRlNTkzMWU2OTBkNWU4Y2UxMmU).
+[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtOTY2ODc3MTQ2Mzg1LTVlMTVlMTIyZDk3YmUyZjJhYTk0Yzg5YzRhZjg0YTk3NWNmZDg0OGRmYWI0MjJjMWEyZTFkMmY5M2Q3ZTY5NDY).
 
 Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064b01b-b271-40e7-9549-4569f0e63a7f/home) löytyvät poistuvasta Echo360-palvelusta.
 [Vuoden 2020 luentotallenteet](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx?folderID=6005b1ad-b84d-4b14-88fb-ab7300b7b81d) julkaistaan Tampereen yliopiston Panoptossa.

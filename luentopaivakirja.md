@@ -78,9 +78,9 @@ Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/joda
 
 Koodiklinikalla käsittelyssä [Description and Code](https://jodatut.github.io/2019/Loan-Status-Prediction/).
 
+-->
 
-
-## Luento 12.3: Datan kerääminen ja jalostaminen
+## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
@@ -98,11 +98,12 @@ vrt. OpenRefine.
 
 Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Lecture%202.ipynb)
 
+<!--
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2019/blob/master/koodiesimerkit/crawler.md).
-
 -->
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
+
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
 

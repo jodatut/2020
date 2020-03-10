@@ -127,7 +127,8 @@ read_csv() & read_excel().
 Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento01.ipynb)
 
 Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä.
- Here is the link to the [Demo-session 1 notebook](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb)
+
+Here is the link to the [Demo-session 1 notebook](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb)
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 

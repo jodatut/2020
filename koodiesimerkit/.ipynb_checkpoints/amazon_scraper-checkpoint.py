@@ -10,7 +10,7 @@ class AmazonScraperSpider(scrapy.Spider):
     def parse(self, response):
         review_texts = response.css('.a-size-base.review-text')
         for i in range(len(review_texts)):
-            review_texts[i] = "".join(review_texts[i].css('::text').extract()).strip()
+            review_texts[i] = " ".join(review_texts[i].css('::text').extract()).strip()
 
         review_ratings = response.css('[data-hook="review-star-rating"] > span::text').extract()
 

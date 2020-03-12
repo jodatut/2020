@@ -11,3 +11,6 @@ package.json
 koodiesimerkit/ipython/VENV/*
 koodiesimerkit/explore/VENV/*
 koodiesimerkit/explore/data/*
+demo/scrapy/VENV/*
+luentomuistio/data/*
+luentomuistio/.ipynb_checkpoints/*

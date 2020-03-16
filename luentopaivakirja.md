@@ -63,7 +63,9 @@ Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jod
 
 Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
 
-## Luento 19.3: Koneoppimisen periaatteet
+-->
+
+## Luento 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
@@ -74,17 +76,16 @@ piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
 luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/))
 
-Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%203.ipynb)
+Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento03.ipynb)
 
-Koodiklinikalla käsittelyssä [Description and Code](https://jodatut.github.io/2019/Loan-Status-Prediction/).
-
--->
+Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
 [ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),
+https://www.google.com/search?q=lean+analytics+unknown+unknown&sxsrf=ALeKk020MIhxL4mKwrJtO_g48Q80VoxzYQ:1583831094368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW-43Oxo_oAhWKzaQKHSewACEQ_AUoAXoECAoQAw&biw=1280&bih=698#imgrc=kVKhIp-ZzGdijM
 ryömijät ja raapijat
 ([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),
@@ -98,7 +99,8 @@ vrt. OpenRefine.
 
 Toisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento02.ipynb)
 
-Here is the link to the [Demo-session 2 notebook](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb)
+Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
+
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
 
@@ -123,9 +125,7 @@ read_csv() & read_excel().
 
 Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento01.ipynb)
 
-Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä.
-
-Here is the link to the [Demo-session 1 notebook](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb)
+Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 

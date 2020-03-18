@@ -75,7 +75,7 @@ ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **keskiviikko 3.5 kello 15 mennessä**.
+toteutuskerran Slackissä **keskiviikkoon 29.4 kello 15 mennessä**.
 Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
 palautus on tehty annetun aikataulun puitteissa.
 
@@ -108,10 +108,7 @@ Harjoitustyöt eivät saa olla identtisiä.
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-**keskiviikkona 15.5. toukokuuta kello 17 mennessä**
-osoitteeseen
-[arho.suominen@vtt.fi](mailto:arho.suominen@vtt.fi).
-Otsikoi viesti #JODATUT: työ valmis.
+Moodlen palautusautomaatilla **perjantaihin 15.5. kello 17 mennessä.
 
 <blockquote>
   <p>
@@ -120,7 +117,7 @@ Otsikoi viesti #JODATUT: työ valmis.
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Julkisen liikenteen vaikutus Airbnb-asunnon hintaan</p>
-  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut2018-234567.zip).</p>
+  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatuni2020-234567.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
 <a href="http://blog.fi/jamesstation/jodatut2018">http://blog.fi/jamesstation/jodatut2018</a>.</p>
@@ -130,6 +127,8 @@ Otsikoi viesti #JODATUT: työ valmis.
 Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
+<!--
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet
 [Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1xKYYAjyzkk5rTL3KuSMs2Srdp-wLgHzPc-QXXGRtaVw/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
+-->
 **Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.**

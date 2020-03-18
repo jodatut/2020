@@ -108,7 +108,7 @@ Harjoitustyöt eivät saa olla identtisiä.
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-Moodlen palautusautomaatilla **perjantaihin 15.5. kello 17 mennessä.
+Moodlen palautusautomaatilla **perjantaihin 15.5. kello 17 mennessä**.
 
 <blockquote>
   <p>
@@ -124,7 +124,7 @@ Moodlen palautusautomaatilla **perjantaihin 15.5. kello 17 mennessä.
 
 </blockquote>
 
-Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (jodatuni2020-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatuni2020-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
 <!--

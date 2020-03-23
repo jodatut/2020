@@ -84,8 +84,7 @@ Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](http
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
-[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),
-https://www.google.com/search?q=lean+analytics+unknown+unknown&sxsrf=ALeKk020MIhxL4mKwrJtO_g48Q80VoxzYQ:1583831094368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW-43Oxo_oAhWKzaQKHSewACEQ_AUoAXoECAoQAw&biw=1280&bih=698#imgrc=kVKhIp-ZzGdijM
+[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),[asiat jotka tiedämme/emme tiedä tietävämme](https://www.oreilly.com/library/view/lean-analytics/9781449335687/ch02.html#hidden_genius_of_donald_rumsfeld),
 ryömijät ja raapijat
 ([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),

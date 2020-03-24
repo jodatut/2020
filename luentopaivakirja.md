@@ -61,9 +61,9 @@ Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
 
-Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento04.ipynb)
+Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento04.ipynb).
 
-Koodiklinikalla [syvennytään lineaariregressioon](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
+Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
 
 ## Luentoviikko 3: Koneoppimisen periaatteet
 

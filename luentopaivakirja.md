@@ -49,23 +49,23 @@ Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/joda
 
 Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://jodatut.github.io/2019/analysisofpca).
 
-## Luento 26.3: Harjoitustyöhön tutustuminen
+-->
+
+## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2019/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2020/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
 
-Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Jodatut%204.ipynb)
+Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento04.ipynb).
 
-Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
+Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
 
--->
-
-## Luento 3: Koneoppimisen periaatteet
+## Luentoviikko 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
@@ -84,8 +84,7 @@ Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](http
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
-[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),
-https://www.google.com/search?q=lean+analytics+unknown+unknown&sxsrf=ALeKk020MIhxL4mKwrJtO_g48Q80VoxzYQ:1583831094368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW-43Oxo_oAhWKzaQKHSewACEQ_AUoAXoECAoQAw&biw=1280&bih=698#imgrc=kVKhIp-ZzGdijM
+[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),[asiat jotka tiedämme/emme tiedä tietävämme](https://www.oreilly.com/library/view/lean-analytics/9781449335687/ch02.html#hidden_genius_of_donald_rumsfeld),
 ryömijät ja raapijat
 ([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),

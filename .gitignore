@@ -15,3 +15,6 @@ demo/scrapy/VENV/*
 luentomuistio/data/*
 luentomuistio/.ipynb_checkpoints/*
 koodiesimerkit/airnbn/.ipynb_checkpoints/python_scikit_airbnb-checkpoint.ipynb
+luentomuistio/src/*
+luentomuistio/corpus*
+luentomuistio/corpora.dict

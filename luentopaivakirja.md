@@ -36,7 +36,9 @@ Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteis
 
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%206.ipynb)
 
-## Luento 9.4: Ohjaamaton koneoppiminen
+-->
+
+## Luentoviikko 5: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
 Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
@@ -45,8 +47,9 @@ Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images
 ryvästäminen (ks. [k-means-clustering](https://www.datascience.com/blog/k-means-clustering)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
-Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/Luento%205.ipynb)
+Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/Luento%205.ipynb)
 
+<!--
 Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://jodatut.github.io/2019/analysisofpca).
 
 -->

@@ -51,9 +51,9 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento05.ipynb)
 
-<!--
-Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://jodatut.github.io/2019/analysisofpca).
--->
+
+Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
+
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 

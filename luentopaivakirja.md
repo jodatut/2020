@@ -31,16 +31,17 @@ Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimist
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/luento07.ipynb)
 -->
 
+
 **Tulossa: Kertaus ja yhteenveto**
 
-Pääsiäistauon jälkeen 
+Pääsiäistauon jälkeen tiistaina 21. huhtikuuta on vuorossa JODAn kevään 2020 viimeinen luento. Kerrataan ja vedetään yhteen kevään antia.
 
 ## Luentoviikko 6: Visuaalinen analytiikka
 
 Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)
 Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
-Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä.  
+Viimeisellä varsinaisella luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento06.ipynb)
 

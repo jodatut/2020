@@ -31,10 +31,11 @@ Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimist
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/luento07.ipynb)
 -->
 
-
 **Tulossa: Kertaus ja yhteenveto**
 
-Pääsiäistauon jälkeen tiistaina 21. huhtikuuta on vuorossa JODAn kevään 2020 viimeinen luento. Kerrataan ja vedetään yhteen kevään antia.
+Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevään 2020 viimeinen luento. Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
+
+Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb)
 
 ## Luentoviikko 6: Visuaalinen analytiikka
 
@@ -44,6 +45,8 @@ Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta]
 Viimeisellä varsinaisella luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento06.ipynb)
+
+<!-- Erjon: link to Code Clinic 6 goes here -->
 
 ## Luentoviikko 5: Ohjaamaton koneoppiminen
 
@@ -56,9 +59,7 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento05.ipynb)
 
-
-Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
-
+Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 

@@ -46,7 +46,7 @@ Viimeisellä varsinaisella luentokerralla käydään läpi visuaalisen analytiik
 
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento06.ipynb)
 
-<!-- Erjon: link to Code Clinic 6 goes here -->
+[Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb)
 
 ## Luentoviikko 5: Ohjaamaton koneoppiminen
 

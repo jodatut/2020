@@ -4,6 +4,11 @@ title: Luentopäiväkirja / JODA 2020
 year: 2020
 ---
 
+<!--
+TODO: Käy läpi aihetunnisteet #jodatuni ja #jodatut Twitterissä ja
+päivitä kehityskohteet viikkokohtaisiksi TODO-merkinnöiksi
+
+-->
 Tämä on Johdanto datatieteeseen -opintojakson kevään 2020 toteutuskerran luentopäiväkirja.
 
 <!-- Vastaisen varalle:
@@ -31,7 +36,7 @@ Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimist
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/luento07.ipynb)
 -->
 
-**Tulossa: Kertaus ja yhteenveto**
+## Luentoviikko 7: Kertaus ja yhteenveto
 
 Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevään 2020 viimeinen luento. Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
 
@@ -91,6 +96,11 @@ Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatu
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
+
+<!--
+TODO: integroi raapijademoon:
+https://ianlondon.github.io/blog/render_html_in_ipython_notebook/
+-->
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),

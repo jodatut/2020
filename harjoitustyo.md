@@ -75,7 +75,7 @@ ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **keskiviikkoon 29.4 kello 15 mennessä**.
+toteutuskerran Slackissä **keskiviikkoon 29.4 kello 17 mennessä**.
 Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
 palautus on tehty annetun aikataulun puitteissa.
 

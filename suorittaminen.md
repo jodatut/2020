@@ -31,4 +31,4 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 * **Soveltava vastaan luettelomainen:** Kiitettävässä oppimispäiväkirjassa opiskelija jalostaa luennolla esitettyjä ajatuksia edelleen ja muodostaa viikon teemasta eheän kokonaisuuden. Välttävässä oppimispäiväkirjassa opiskelija esittää samat asiat samassa muodossa kuin luennolla.
 * **Pohdiskelu ja reflektointi:** Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
 
-Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 15. toukokuuta 2019. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2020/harjoitustyo/#loppuraportti).
+Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 15. toukokuuta 2020. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2020/harjoitustyo/#loppuraportti).

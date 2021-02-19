@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Luentopäiväkirja / JODA 2020
-year: 2020
+title: Luentorunko / JODA 2021
+year: 2021
 ---
 
 <!--
@@ -9,14 +9,14 @@ TODO: Käy läpi aihetunnisteet #jodatuni ja #jodatut Twitterissä ja
 päivitä kehityskohteet viikkokohtaisiksi TODO-merkinnöiksi
 
 -->
-Tämä on Johdanto datatieteeseen -opintojakson kevään 2020 toteutuskerran luentopäiväkirja.
+Tämä on Johdanto datatieteeseen -opintojakson kevään 2021 toteutuskerran luentorunko.
 
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
 
-Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2019 luentosarjaa iteratiivisesti kehittäen.
+Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2020 toteutuskertaa iteratiivisesti kehittäen.
 <!--  Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä -->
 
 Toteutuskerran käytössä on
@@ -27,7 +27,7 @@ Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064
 
 Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella [#jodatuni](https://twitter.com/search?q=%23jodatuni&f=live).
 
-# Luentopäiväkirja
+# Luentorunko
 
 <!--
 ## Luento 23.4: Kertaus
@@ -36,12 +36,15 @@ Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimist
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentomuistio/luento07.ipynb)
 -->
 
+<!--
 ## Luentoviikko 7: Kertaus ja yhteenveto
 
 Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevään 2020 viimeinen luento. Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
 
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb).
+-->
 
+<!--
 ## Luentoviikko 6: Visuaalinen analytiikka
 
 Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) <br/>
@@ -52,7 +55,9 @@ Viimeisellä varsinaisella luentokerralla käydään läpi visuaalisen analytiik
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento06.ipynb).
 
 [Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
+-->
 
+<!--
 ## Luentoviikko 5: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
@@ -65,7 +70,9 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento05.ipynb).
 
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
+-->
 
+<!--
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
@@ -79,7 +86,9 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento04.ipynb).
 
 Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
+-->
 
+<!--
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
@@ -94,13 +103,18 @@ luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.co
 Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento03.ipynb).
 
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
+-->
 
+<!--
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
+-->
 
 <!--
 TODO: integroi raapijademoon:
 https://ianlondon.github.io/blog/render_html_in_ipython_notebook/
 -->
+
+<!--
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
@@ -119,6 +133,7 @@ vrt. OpenRefine.
 Toisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento02.ipynb).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
+-->
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
@@ -127,7 +142,7 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodat
 
 ## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento tiistaina 3. maaliskuuta kello 10-12 SJ204.
+Avausluento tiistaina 9. maaliskuuta kello 11-13 Zoomissa.
 Suorittamisen käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
@@ -136,15 +151,15 @@ Mitä on datatiede
 [Up and runnign with Python](http://blog.kaggle.com/2012/07/02/up-and-running-with-python-my-first-kaggle-entry/).
 Datatieteen työvälineet:
 [Pandas](https://pandas.pydata.org/),
+[Jupyter](http://jupyter.org/),
 [scikit-learn](http://scikit-learn.org/),
-[D3.js](https://d3js.org/),
-[Jupyter](http://jupyter.org/).
+[D3.js](https://d3js.org/).
 Dataa koneeseen:
 read_csv() & read_excel().
 
-Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento01.ipynb).
+Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento01.ipynb).
 
-Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
+Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 

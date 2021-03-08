@@ -22,8 +22,9 @@ Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2020 toteutuske
 Toteutuskerran käytössä on
 [Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtOTY2ODc3MTQ2Mzg1LTVlMTVlMTIyZDk3YmUyZjJhYTk0Yzg5YzRhZjg0YTk3NWNmZDg0OGRmYWI0MjJjMWEyZTFkMmY5M2Q3ZTY5NDY).
 
-Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064b01b-b271-40e7-9549-4569f0e63a7f/home) löytyvät poistuvasta Echo360-palvelusta.
-[Vuoden 2020 luentotallenteet](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx?folderID=6005b1ad-b84d-4b14-88fb-ab7300b7b81d) julkaistaan Tampereen yliopiston Panoptossa.
+<!--
+Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064b01b-b271-40e7-9549-4569f0e63a7f/home) löytyvät poistuvasta Echo360-palvelusta.-->
+[Vuoden 2020 luentotallenteet](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx?folderID=6005b1ad-b84d-4b14-88fb-ab7300b7b81d) löytyvät Tampereen yliopiston Panopto-palvelusta. Vuoden 2021 luennot järjestetään Zoomissa ja tallennetaan Panoptoon.
 
 Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella [#jodatuni](https://twitter.com/search?q=%23jodatuni&f=live).
 
@@ -143,12 +144,14 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodat
 ## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
 Avausluento tiistaina 9. maaliskuuta kello 11-13 Zoomissa.
-Suorittamisen käytännöt.
+[Suorittamisen](https://infotuni.github.io/joda2021/suorittaminen/) käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
 [modern data scientist](https://www.schoolofdatascience.amsterdam/news/skills-need-become-modern-data-scientist/),
 [datatieteen metrokartta](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/))?
-[Up and runnign with Python](http://blog.kaggle.com/2012/07/02/up-and-running-with-python-my-first-kaggle-entry/).
+[Jupyter Notebook: An Introduction](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
+
+<!-- [Up and runnign with Python](http://blog.kaggle.com/2012/07/02/up-and-running-with-python-my-first-kaggle-entry/).-->
 Datatieteen työvälineet:
 [Pandas](https://pandas.pydata.org/),
 [Jupyter](http://jupyter.org/),
@@ -157,7 +160,7 @@ Datatieteen työvälineet:
 Dataa koneeseen:
 read_csv() & read_excel().
 
-Ensimmäisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento01.ipynb).
+Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento01.ipynb).
 
 Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
 <!--

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suorittaminen / JODA 2020
+title: Suorittaminen / JODA 2021
 ---
 
 # Suorittaminen
@@ -25,9 +25,6 @@ Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevää
 
 
 Kerro dokumentin osoite Moodlessa.
-
-<!--
-Kerro dokumentin osoite [Google Forms:n](https://goo.gl/forms/rwfKD6YFDpDSOS8a2) avulla Arholle.-->
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 

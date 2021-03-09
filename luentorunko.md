@@ -149,8 +149,7 @@ Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
 [modern data scientist](https://www.schoolofdatascience.amsterdam/news/skills-need-become-modern-data-scientist/),
 [datatieteen metrokartta](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/))?
-[Jupyter Notebook: An Introduction](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
-
+[Jupyter Notebook: An Introduction](https://www.dataschool.io/cloud-services-for-jupyter-notebook/).
 <!-- [Up and runnign with Python](http://blog.kaggle.com/2012/07/02/up-and-running-with-python-my-first-kaggle-entry/).-->
 Datatieteen työvälineet:
 [Pandas](https://pandas.pydata.org/),
@@ -162,7 +161,7 @@ read_csv() & read_excel().
 
 Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento01.ipynb).
 
-Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
+Ensimmäisellä Koodiklinikalla käydään läpi Pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 

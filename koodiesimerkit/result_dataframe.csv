@@ -475,6 +475,7 @@ mc,987,3600,Mastercard
 mc,988,3600,Mastercard
 mc,989,1200,Mastercard
 mc,991,1200,Mastercard
+mc,998,1200,Mastercard
 visa,1,1200,Visa
 visa,3,1200,Visa
 visa,4,3600,Visa
@@ -997,3 +998,4 @@ visa,990,1200,Visa
 visa,993,1200,Visa
 visa,994,3600,Visa
 visa,997,1200,Visa
+visa,999,1200,Visa

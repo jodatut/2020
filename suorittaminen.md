@@ -23,7 +23,6 @@ Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
 
 Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook).
 
-
 Kerro dokumentin osoite Moodlessa.
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
@@ -33,5 +32,7 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 * **Soveltava vastaan luettelomainen:** Kiitettävässä oppimispäiväkirjassa opiskelija jalostaa luennolla esitettyjä ajatuksia edelleen ja muodostaa viikon teemasta eheän kokonaisuuden. Välttävässä oppimispäiväkirjassa opiskelija toistaa luennolla läpikäydyt asiat sellaisenaan.
 
 * **Pohdiskelu ja reflektointi:** Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
+
+Demokoodi voi olla valmistakin, mutta parhaassa tapauksessa omaan käyttöön räätälöityä ja vähintääkin kommentoitua. Lähdeviittaus on paikallaan myös koodin tapauksessa.
 
 Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 14. toukokuuta 2021. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2021/harjoitustyo/#loppuraportti).

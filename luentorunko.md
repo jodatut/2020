@@ -16,7 +16,7 @@ Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
 
-Toteutuskerta etenee alla olevan luentorungon mukaisesti, vuoden 2020 toteutuskertaa iteratiivisesti kehittäen.
+Toteutuskerta etenee alla olevan luentorungon mukaisesti, [vuoden 2020 toteutuskertaa](https://jodatut.github.io/2020/luentopaivakirja/) iteratiivisesti kehittäen.
 <!--  Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä -->
 
 Toteutuskerran käytössä on

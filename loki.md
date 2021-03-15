@@ -10,6 +10,8 @@ Esitehtävä: määrittele oppimistavoitteet mahdollisimman tarkasti edellisen k
 
 Flippausvideot/luettavaksi:
 
+
+
 Mitä on datatiede? (Haastattelut alan toimijoilta!)
 
 Luento 2

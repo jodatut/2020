@@ -106,16 +106,7 @@ Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatu
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 -->
 
-<!--
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
--->
-
-<!--
-TODO: integroi raapijademoon:
-https://ianlondon.github.io/blog/render_html_in_ipython_notebook/
--->
-
-<!--
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),

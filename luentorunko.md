@@ -110,25 +110,25 @@ Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](http
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
-[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),[asiat jotka tiedämme/emme tiedä tietävämme](https://www.oreilly.com/library/view/lean-analytics/9781449335687/ch02.html#hidden_genius_of_donald_rumsfeld),
+[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer),
+[asiat jotka tiedämme/emme tiedä tietävämme](https://www.oreilly.com/library/view/lean-analytics/9781449335687/ch02.html#hidden_genius_of_donald_rumsfeld),
 ryömijät ja raapijat
 ([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),
 [Web Scraping in Python](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/),
 [Scrapy](https://scrapy.org/)),
+API-ohjelmointi ([How to use an API with Python](https://rapidapi.com/blog/how-to-use-an-api-with-python/)),
 dataformaatit ja niiden ohjelmallinen käsittely,
-data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/)),
-datan ensi tarkastelu Pythonilla
-(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python),
-vrt. OpenRefine.
+data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/), vrt. OpenRefine),
+datan ensitarkastelu Pythonilla
+(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python).
+
 
 Toisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento02.ipynb).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
--->
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
-
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
 

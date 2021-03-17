@@ -33,7 +33,7 @@ Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittu
 Suoraviivaisinta on lähteä liikkeelle valmiista datasta.
 Ehdotamme [Inside Airbnb](http://insideairbnb.com/) -datasetin käyttöä.
 Analytiikkavälineet tarjoavat myös puhdasta esimerkkidataa, katso vaikkapa
-[Kaggle tarjonta](https://www.kaggle.com/datasets).
+[Kagglen tarjonta](https://www.kaggle.com/datasets).
 Datasettien yhdistely tuo mukanaan lisähaastetta.
 Voit myös kerätä oman datasetin Web-ryöminnän, ruudunraavinnan tai API-ohjelmoinnin keinoin.
 
@@ -51,14 +51,14 @@ Toteuta minimissään joukko datan ominaisuuksia kuvaavia visualisointeja.
 Pandas tarjoaa kätevät apuvälineet aikajanoista pistekaaviomatriiseihin.
 Halutessasi voit hyödyntää Web-ohjelmointiosaamistasi ja
 toteuttaa monipuolisen visuaalisen raportin tai
-vuorovaikutteisen Web-kojelaudan.
+vuorovaikutteisen Web-kojelaudan esimerkiksi [Streamlitillä](https://streamlit.io/).
 
 **Koneoppiminen**
 Kahden muuttujan välistä suhdetta tarkasteleva lineaarinen regressio on
 yksinkertaisin koneoppimismenetelmä.
-Voit vaikkapa etsiä Airbnb-asunnon hintaa parhaiten selvittävät muuttujat.
+Voit vaikkapa etsiä Airbnb-asunnon hintaa parhaiten selittävät muuttujat.
 Monimuuttujaregressio mahdollistaa esimerkiksi
-[Airbnb-asunnon hinnan ennustamisen](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/).
+[Airbnb-asunnon hinnan ennustamisen](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
 Käytännön sovellukset ovat tyypillisesti useita eri menetelmiä yhdisteleviä hybridejä.
 
 **Toimeenpano**
@@ -69,19 +69,16 @@ Miten Airbnb-asuntojen sijaintia voisi hyödyntää kahvilaketjun toimipisteiden
 Miten Airbnb-asunnosta olisi mahdollista saada nykyistä parempi päivähinta?
 Staattinen raportti voi olla tekstiä ja kuvia yhdistelevä tuotos.
 Vuorovaikutteisen raportin avulla käyttäjä voi myös itse perehtyä tekemääsi analyysiin.
-Suosittelujärjestelmä tai Airbnb-asunnon hinnan käyttäjän syöttämien
-ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta analytiikasta.
+Suosittelujärjestelmä tai Airbnb-asunnon hinnan arviointi käyttäjän syöttämien ominaisuuksien perusteella määrittelevä sovellus (vrt. [blok.ai](https://blok.ai/asunnon-hinta-arvio/)) ovat esimerkkejä ohjaavasta analytiikasta.
 
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **keskiviikkoon 29.4 kello 17 mennessä**.
+toteutuskerran Slackissä **torstaihin 29.4 kello 17 mennessä**.
 Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
 palautus on tehty annetun aikataulun puitteissa.
 
-Aihepiiriin jo ennen toteutuskerran alkua perehtyneitä suorittajia kannustetaan
-toteuttamaan etenkin ensimmäiset vaiheet annettua aikataulua rivakammin ja
-siten jakamaan osaamistaan muille.
+Aihepiiriin jo ennen toteutuskerran alkua perehtyneitä suorittajia kannustetaan toteuttamaan etenkin **ensimmäiset vaiheet annettua aikataulua rivakammin** ja siten jakamaan osaamistaan muille.
 Erityisen informatiiviset palautukset huomioidaan kokonaissuoritusta arvosteltaessa.
 
 Yhden vaiheen kuvaus sisältää seuraavat pääkohdat:
@@ -102,30 +99,30 @@ Harjoitustyön tekeminen yhteistyössä on sallittua.
 Halutessanne voitte myös toteuttaa yhdessä esimerkiksi datan keräämiseen tai
 jalostamiseen tarvittavia komponentteja.
 Jokainen kuitenkin palauttaa omat kuvauksensa.
-Käyttäkää komponenttien jakamiseen versionhallintajärjestelmää.
+Yhteistyötä tehdesssänne käyttäkää komponenttien jakamiseen versionhallintajärjestelmää.
 Harjoitustyöt eivät saa olla identtisiä.
 
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-Moodlen palautusautomaatilla **perjantaihin 15.5. kello 17 mennessä**.
+Moodlen palautusautomaatilla **perjantaihin 14.5. kello 17 mennessä**.
 
 <blockquote>
   <p>
     Nimi: James Station<br />
-    Opiskelijanumero: 213456<br />
+    Opiskelijanumero: H654321<br />
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Julkisen liikenteen vaikutus Airbnb-asunnon hintaan</p>
-  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatuni2020-234567.zip).</p>
+  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatuni2021-H654321.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
-<a href="http://blog.fi/jamesstation/jodatut2018">http://blog.fi/jamesstation/jodatut2018</a>.</p>
+<a href="http://blog.fi/jamesstation/jodatuni2021">http://blog.fi/jamesstation/jodatuni2021</a>.</p>
 
 </blockquote>
 
-Palautettavan zip-paketin (jodatuni2020-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatuni2020-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
-Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
+Palautettavan zip-paketin (jodatuni2021-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatuni2021-H654321 (korvaa lukusarja H654321 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Liitä mukaan tiivis käyttöönotto-ohje.
 
 <!--
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet

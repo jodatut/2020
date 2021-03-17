@@ -9,7 +9,7 @@ year: 2021
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet. Voit valita aiheen ja datalähteen vapaasti.
 Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2021/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analyysi datatieteen menetelmin.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
 
 ## Vaiheet ja pisteet
 
@@ -25,7 +25,7 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 **Kehitysympäristö**
 Perusta kehitysympäristö projektiasi varten.
 CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
-Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
+Google Colabin hyödyntäminen on suoraviivaisin vaihtoehto. Vaihtoehtoisesti voit asentaa koneellesi Anacondan tai pelkän Jupyterin.
 Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
 Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittuun kategoriaan.
 
@@ -46,7 +46,7 @@ mutta usein niiden erottaminen edellyttää lisätyötä.
 viittaa tässä itse kerätyn datan jalostamiseen analyysiä varten.
 
 **Datan kuvaileminen**
-Datan eksploratiivinen ja kuvaileva analyysi on välttämätöntä analytiikkaprojektin laadun takaamiseksi.
+Datan kartoittava (eksploratiivinen) ja kuvaileva (deskriptiivinen) analyysi on välttämätöntä analytiikkaprojektin laadun takaamiseksi.
 Toteuta minimissään joukko datan ominaisuuksia kuvaavia visualisointeja.
 Pandas tarjoaa kätevät apuvälineet aikajanoista pistekaaviomatriiseihin.
 Halutessasi voit hyödyntää Web-ohjelmointiosaamistasi ja

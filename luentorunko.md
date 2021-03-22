@@ -89,7 +89,7 @@ Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jod
 Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
 -->
 
-<!--
+
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
@@ -104,6 +104,9 @@ luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.co
 Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento03.ipynb).
 
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
+
+<!--
+
 -->
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
@@ -123,7 +126,7 @@ data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/), vrt. Open
 datan ensitarkastelu Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python).
 
-Toisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento02.ipynb).
+Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento02.ipynb).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoTUNI/2021/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
 

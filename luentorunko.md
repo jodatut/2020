@@ -123,10 +123,9 @@ data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/), vrt. Open
 datan ensitarkastelu Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python).
 
-
 Toisen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/jodatut/2020/blob/master/luentomuistio/luento02.ipynb).
 
-Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
+Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoTUNI/2021/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
